@@ -1,0 +1,21 @@
+.App{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(37, 32, 32, 0.467);
+
+}
+.user{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: steelblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 700px;
+  height: 500px;
+  margin: 20px;
+}
+
